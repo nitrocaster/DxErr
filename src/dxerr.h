@@ -11,8 +11,6 @@
 // Copyright (c) Microsoft Corporation. All rights reserved.
 //--------------------------------------------------------------------------------------
 
-// This version only supports UNICODE.
-
 #pragma once
 
 #if !defined(NOMINMAX)
